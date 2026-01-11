@@ -1,4 +1,4 @@
-# Projet-Metabolisme
+# Projet-Métabolisme
 
 ## Analyse des flux métaboliques sur un modèle genome-scale avec MetExplore
 
